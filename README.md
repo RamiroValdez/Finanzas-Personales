@@ -4,7 +4,7 @@ Proyecto de Finanzas Personales construido sobre una arquitectura MVC.
 
 ## Tecnologías
 
-- Java
+- Java (11)
 - Spring (v5)
 - MySQL
 - Thymeleaf
